@@ -32,8 +32,8 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="109.58332"
-     inkscape:cy="972.50813"
+     inkscape:cx="77.56951"
+     inkscape:cy="114.47617"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="712"
@@ -41,7 +41,7 @@
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="7.1315599"
+     inkscape:zoom="11.447797"
      objecttolerance="10"
      pagecolor="#323232"
      showgrid="true"
@@ -3306,14 +3306,14 @@
   <path
      id="tabframe-normal"
      d="m279.68 666.77v32h32v-32z"
-     fill="#31313a" />
+     fill="#003030" />
   <g
      id="tabframe-normal-left"
      transform="matrix(.8 0 0 .98462 258.68 618.77)">
     <path
        id="path213"
        d="m26.25 81.251v-32.5h-5v32.5z"
-       fill="#31313a" />
+       fill="#003030" />
     <path
        id="path215"
        d="m21.25 48.752v32.5h2.4998v-32.5z"
@@ -3325,7 +3325,7 @@
     <path
        id="path218"
        d="m26.25 41.252h-5v5h5z"
-       fill="#31313a" />
+       fill="#003030" />
     <path
        id="path220"
        d="m26.25 41.252h-5v5h2.4999l-3e-4 -2.5h2.5001z"
@@ -5089,7 +5089,8 @@
   <path
      id="titlebar-normal"
      d="m395.84 407.05v32h32v-32z"
-     fill="#31313a" />
+     fill="#003030"
+     style="fill:#003030;fill-opacity:1" />
   <use
      id="titlebar-focused"
      transform="translate(4.3816e-8 -45)"
@@ -5102,26 +5103,30 @@
      y="109.94"
      width="10"
      height="10"
-     fill="#31313a" />
+     fill="#003030" />
   <rect
      id="combo-normal"
      x="417.2"
      y="96.443"
      width="10"
      height="10"
-     fill="#31313a" />
+     fill="#003030" />
   <g
      id="g1018"
-     fill="#25252d">
+     fill="#25252d"
+     style="fill:#252c2d;fill-opacity:1">
     <path
        id="header-normal-bottom"
-       d="m78 116.88h-6v6h6z" />
+       d="m 78,116.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
     <path
        id="header-normal-bottomleft"
-       d="m84 116.88h-6v6h6z" />
+       d="m 84,116.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
     <path
        id="header-normal-bottomright"
-       d="m90 116.88h-6v6h6z" />
+       d="m 90,116.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
   </g>
   <path
      id="header-normal-left"
@@ -5133,16 +5138,20 @@
      opacity=".001" />
   <g
      id="g1025"
-     fill="#25252d">
+     fill="#25252d"
+     style="fill:#252c2d;fill-opacity:1">
     <path
        id="header-normal-top"
-       d="m78 110.88h-6v6h6z" />
+       d="m 78,110.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
     <path
        id="header-normal-topright"
-       d="m84 110.88h-6v6h6z" />
+       d="m 84,110.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
     <path
        id="header-normal-topleft"
-       d="m90 110.88h-6v6h6z" />
+       d="m 90,110.88 h -6 v 6 h 6 z"
+       style="fill:#252c2d;fill-opacity:1" />
   </g>
   <path
      id="header-normal"
@@ -5161,7 +5170,8 @@
   <path
      id="header-separator"
      d="m72 104.88h-6v6h6z"
-     fill="#25252d" />
+     fill="#25252d"
+     style="fill:#252c2d;fill-opacity:1" />
   <g
      style="stroke-width:1.02489996"
      transform="matrix(0.95208,0,0,1,11.535,-19.236)"
@@ -6475,7 +6485,7 @@
      y="-95"
      width="20"
      height="5"
-     style="fill:#131621;fill-opacity:1" />
+     style="fill:#002424;fill-opacity:1" />
   <rect
      id="menubar-normal-topleft"
      transform="rotate(90)"
@@ -6483,14 +6493,14 @@
      y="-95"
      width="5"
      height="5"
-     style="fill:#131621;fill-opacity:1" />
+     style="fill:#002424;fill-opacity:1" />
   <rect
      id="menubar-normal-top"
      x="95"
      y="960"
      width="20"
      height="5"
-     style="fill:#131621;fill-opacity:1" />
+     style="fill:#002424;fill-opacity:1" />
   <rect
      id="menubar-normal-right"
      transform="rotate(90)"
@@ -6498,7 +6508,7 @@
      y="-120.00001"
      width="20"
      height="5"
-     style="fill:#131621;fill-opacity:1" />
+     style="fill:#002424;fill-opacity:1" />
   <rect
      id="menubar-normal-topright"
      transform="rotate(90)"
@@ -6506,7 +6516,7 @@
      y="-120.00001"
      width="5"
      height="5"
-     style="fill:#131621;fill-opacity:1" />
+     style="fill:#002424;fill-opacity:1" />
   <path
      id="menubar-normal-bottom"
      d="m 94.999985,990 h 5 v -5 h -5 z"
