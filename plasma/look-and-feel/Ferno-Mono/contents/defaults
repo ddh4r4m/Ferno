@@ -1,0 +1,24 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum-dark
+
+[kdeglobals][General]
+ColorScheme=Ferno Mono
+
+[kdeglobals][Icons]
+Theme=Tela-circle-dark
+
+[plasmarc][Theme]
+name=Ferno
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__FernoPattern-Dark
+
+[kwinrc][WindowSwitcher]
+LayoutName=big_icons
+
+[kwinrc][DesktopSwitcher]
+LayoutName=big_icons
+
+[Wallpaper]
+Image=ArchSciFiGreen

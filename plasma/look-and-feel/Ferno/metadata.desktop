@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Ferno
+Comment=Ferno theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Dharam Dhurandhar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Ferno
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://github.com/rkstrdee/Ferno
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1708653,kns://colorschemes.knsrc/api.kde-look.org/1708649,kns://plasma-themes.knsrc/api.kde-look.org/1708439,kns://aurorae.knsrc/api.kde-look.org/1707666,kns://aurorae.knsrc/api.kde-look.org/1707659,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1707585,kns://wallpaper.knsrc/api.kde-look.org/1707576
